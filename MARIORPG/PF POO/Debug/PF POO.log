@@ -1,0 +1,180 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(517,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (ProyectoBase.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  Animations.cpp
+F:\MarioRPG-OpenGL-main\MARIORPG\PF POO\Animations.h(316,1): warning C4305: '+=': truncation from 'double' to 'float'
+F:\MarioRPG-OpenGL-main\MARIORPG\PF POO\Animations.h(318,1): warning C4305: '=': truncation from 'double' to 'float'
+F:\MarioRPG-OpenGL-main\MARIORPG\PF POO\Animations.h(331,1): warning C4305: '-=': truncation from 'double' to 'float'
+  BMPLoader.cpp
+  glm.cpp
+F:\MarioRPG-OpenGL-main\MARIORPG\PF POO\glm.cpp(306,41): warning C4305: '=': truncation from 'double' to 'GLfloat'
+F:\MarioRPG-OpenGL-main\MARIORPG\PF POO\glm.cpp(307,41): warning C4305: '=': truncation from 'double' to 'GLfloat'
+F:\MarioRPG-OpenGL-main\MARIORPG\PF POO\glm.cpp(308,41): warning C4305: '=': truncation from 'double' to 'GLfloat'
+F:\MarioRPG-OpenGL-main\MARIORPG\PF POO\glm.cpp(310,41): warning C4305: '=': truncation from 'double' to 'GLfloat'
+F:\MarioRPG-OpenGL-main\MARIORPG\PF POO\glm.cpp(311,41): warning C4305: '=': truncation from 'double' to 'GLfloat'
+F:\MarioRPG-OpenGL-main\MARIORPG\PF POO\glm.cpp(312,41): warning C4305: '=': truncation from 'double' to 'GLfloat'
+F:\MarioRPG-OpenGL-main\MARIORPG\PF POO\glm.cpp(810,22): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+F:\MarioRPG-OpenGL-main\MARIORPG\PF POO\glm.cpp(811,22): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+F:\MarioRPG-OpenGL-main\MARIORPG\PF POO\glm.cpp(812,22): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+F:\MarioRPG-OpenGL-main\MARIORPG\PF POO\glm.cpp(815,15): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+F:\MarioRPG-OpenGL-main\MARIORPG\PF POO\glm.cpp(1015,18): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+F:\MarioRPG-OpenGL-main\MARIORPG\PF POO\glm.cpp(1171,21): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+F:\MarioRPG-OpenGL-main\MARIORPG\PF POO\glm.cpp(1178,45): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+F:\MarioRPG-OpenGL-main\MARIORPG\PF POO\glm.cpp(1179,45): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+F:\MarioRPG-OpenGL-main\MARIORPG\PF POO\glm.cpp(1229,13): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+F:\MarioRPG-OpenGL-main\MARIORPG\PF POO\glm.cpp(1230,15): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+F:\MarioRPG-OpenGL-main\MARIORPG\PF POO\glm.cpp(1237,24): warning C4305: '=': truncation from 'double' to 'GLfloat'
+F:\MarioRPG-OpenGL-main\MARIORPG\PF POO\glm.cpp(1239,12): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+F:\MarioRPG-OpenGL-main\MARIORPG\PF POO\glm.cpp(1242,27): warning C4305: '=': truncation from 'double' to 'GLfloat'
+F:\MarioRPG-OpenGL-main\MARIORPG\PF POO\glm.cpp(1244,22): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+F:\MarioRPG-OpenGL-main\MARIORPG\PF POO\glm.cpp(1247,41): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+F:\MarioRPG-OpenGL-main\MARIORPG\PF POO\glm.cpp(1248,39): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+F:\MarioRPG-OpenGL-main\MARIORPG\PF POO\glm.cpp(1488,19): warning C4477: 'fprintf' : format string '%d' requires an argument of type 'int', but variadic argument 1 has type 'GLfloat *'
+  Main.cpp
+F:\MarioRPG-OpenGL-main\MARIORPG\PF POO\VectorRR.h(49,16): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+F:\MarioRPG-OpenGL-main\MARIORPG\PF POO\VectorRR.h(55,22): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+F:\MarioRPG-OpenGL-main\MARIORPG\PF POO\VectorRR.h(57,19): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+F:\MarioRPG-OpenGL-main\MARIORPG\PF POO\VectorRR.h(58,22): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+F:\MarioRPG-OpenGL-main\MARIORPG\PF POO\VectorRR.h(63,22): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+F:\MarioRPG-OpenGL-main\MARIORPG\PF POO\VectorRR.h(65,19): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+F:\MarioRPG-OpenGL-main\MARIORPG\PF POO\VectorRR.h(66,22): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+F:\MarioRPG-OpenGL-main\MARIORPG\PF POO\VectorRR.h(71,22): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+F:\MarioRPG-OpenGL-main\MARIORPG\PF POO\VectorRR.h(73,19): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+F:\MarioRPG-OpenGL-main\MARIORPG\PF POO\VectorRR.h(74,22): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+F:\MarioRPG-OpenGL-main\MARIORPG\PF POO\VectorRR.h(170,18): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+F:\MarioRPG-OpenGL-main\MARIORPG\PF POO\VectorRR.h(180,18): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+F:\MarioRPG-OpenGL-main\MARIORPG\PF POO\Geometrias.h(48,122): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+F:\MarioRPG-OpenGL-main\MARIORPG\PF POO\Geometrias.h(50,39): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+F:\MarioRPG-OpenGL-main\MARIORPG\PF POO\Geometrias.h(51,122): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+F:\MarioRPG-OpenGL-main\MARIORPG\PF POO\Geometrias.h(63,117): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+F:\MarioRPG-OpenGL-main\MARIORPG\PF POO\Geometrias.h(65,38): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+F:\MarioRPG-OpenGL-main\MARIORPG\PF POO\Geometrias.h(66,117): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+F:\MarioRPG-OpenGL-main\MARIORPG\PF POO\Geometrias.h(214,55): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+F:\MarioRPG-OpenGL-main\MARIORPG\PF POO\Geometrias.h(215,74): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+F:\MarioRPG-OpenGL-main\MARIORPG\PF POO\Geometrias.h(216,55): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+F:\MarioRPG-OpenGL-main\MARIORPG\PF POO\Geometrias.h(314,55): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+F:\MarioRPG-OpenGL-main\MARIORPG\PF POO\Geometrias.h(315,74): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+F:\MarioRPG-OpenGL-main\MARIORPG\PF POO\Geometrias.h(316,55): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+F:\MarioRPG-OpenGL-main\MARIORPG\PF POO\Geometrias.h(326,53): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+F:\MarioRPG-OpenGL-main\MARIORPG\PF POO\Geometrias.h(327,53): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+F:\MarioRPG-OpenGL-main\MARIORPG\PF POO\Geometrias.h(328,53): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+F:\MarioRPG-OpenGL-main\MARIORPG\PF POO\Imagenes.h(61,26): warning C4101: 'e': unreferenced local variable
+F:\MarioRPG-OpenGL-main\MARIORPG\PF POO\Imagenes.h(80,28): warning C4101: 'e': unreferenced local variable
+F:\MarioRPG-OpenGL-main\MARIORPG\PF POO\Terrain.h(87,7): warning C4101: 'indice': unreferenced local variable
+F:\MarioRPG-OpenGL-main\MARIORPG\PF POO\Billboard.h(65,41): warning C4244: 'argument': conversion from 'GLdouble' to 'float', possible loss of data
+F:\MarioRPG-OpenGL-main\MARIORPG\PF POO\Billboard.h(65,33): warning C4244: 'argument': conversion from 'GLdouble' to 'float', possible loss of data
+F:\MarioRPG-OpenGL-main\MARIORPG\PF POO\Billboard.h(65,25): warning C4244: 'argument': conversion from 'GLdouble' to 'float', possible loss of data
+F:\MarioRPG-OpenGL-main\MARIORPG\PF POO\Billboard.h(68,22): warning C4244: '*=': conversion from 'double' to 'float', possible loss of data
+F:\MarioRPG-OpenGL-main\MARIORPG\PF POO\Billboard.h(69,22): warning C4244: '*=': conversion from 'double' to 'float', possible loss of data
+F:\MarioRPG-OpenGL-main\MARIORPG\PF POO\Fog.h(16): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+F:\MarioRPG-OpenGL-main\MARIORPG\PF POO\Animations.h(316,1): warning C4305: '+=': truncation from 'double' to 'float'
+F:\MarioRPG-OpenGL-main\MARIORPG\PF POO\Animations.h(318,1): warning C4305: '=': truncation from 'double' to 'float'
+F:\MarioRPG-OpenGL-main\MARIORPG\PF POO\Animations.h(331,1): warning C4305: '-=': truncation from 'double' to 'float'
+F:\MarioRPG-OpenGL-main\MARIORPG\PF POO\Water.h(167,1): warning C4305: '+=': truncation from 'double' to 'float'
+F:\MarioRPG-OpenGL-main\MARIORPG\PF POO\Water.h(171,1): warning C4305: 'initializing': truncation from 'double' to 'float'
+F:\MarioRPG-OpenGL-main\MARIORPG\PF POO\Particle.h(112,1): warning C4156: deletion of an array expression without using the array form of 'delete'; array form substituted
+F:\MarioRPG-OpenGL-main\MARIORPG\PF POO\Particle.h(112,1): warning C4154: deletion of an array expression; conversion to pointer supplied
+F:\MarioRPG-OpenGL-main\MARIORPG\PF POO\Particle.h(190,1): warning C4305: 'argument': truncation from 'double' to 'float'
+F:\MarioRPG-OpenGL-main\MARIORPG\PF POO\Scene.h(118,34): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+F:\MarioRPG-OpenGL-main\MARIORPG\PF POO\Scene.h(118,30): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+F:\MarioRPG-OpenGL-main\MARIORPG\PF POO\Scene.h(118,38): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+F:\MarioRPG-OpenGL-main\MARIORPG\PF POO\Scene.h(120,73): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+F:\MarioRPG-OpenGL-main\MARIORPG\PF POO\Scene.h(120,69): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+F:\MarioRPG-OpenGL-main\MARIORPG\PF POO\Scene.h(120,65): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+F:\MarioRPG-OpenGL-main\MARIORPG\PF POO\Scene.h(131,1): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+F:\MarioRPG-OpenGL-main\MARIORPG\PF POO\Scene.h(144,1): warning C4305: 'argument': truncation from 'double' to 'float'
+F:\MarioRPG-OpenGL-main\MARIORPG\PF POO\Scene.h(224,1): warning C4305: 'argument': truncation from 'double' to 'float'
+F:\MarioRPG-OpenGL-main\MARIORPG\PF POO\Scene.h(242,1): warning C4305: 'argument': truncation from 'double' to 'float'
+F:\MarioRPG-OpenGL-main\MARIORPG\PF POO\Scene.h(251,1): warning C4305: 'argument': truncation from 'double' to 'float'
+F:\MarioRPG-OpenGL-main\MARIORPG\PF POO\Scene.h(259,1): warning C4305: 'argument': truncation from 'double' to 'float'
+F:\MarioRPG-OpenGL-main\MARIORPG\PF POO\Scene.h(271,1): warning C4305: '-=': truncation from 'double' to 'float'
+F:\MarioRPG-OpenGL-main\MARIORPG\PF POO\Scene.h(301,1): warning C4305: '-=': truncation from 'double' to 'float'
+F:\MarioRPG-OpenGL-main\MARIORPG\PF POO\Scene.h(372,1): warning C4305: '+=': truncation from 'double' to 'float'
+F:\MarioRPG-OpenGL-main\MARIORPG\PF POO\Scene.h(393,1): warning C4305: '+=': truncation from 'double' to 'float'
+F:\MarioRPG-OpenGL-main\MARIORPG\PF POO\Scene.h(436,16): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+F:\MarioRPG-OpenGL-main\MARIORPG\PF POO\Scene.h(446,1): warning C4305: 'argument': truncation from 'double' to 'float'
+F:\MarioRPG-OpenGL-main\MARIORPG\PF POO\Scene.h(452,1): warning C4305: '-=': truncation from 'double' to 'float'
+F:\MarioRPG-OpenGL-main\MARIORPG\PF POO\Scene.h(452,1): warning C4305: '+=': truncation from 'double' to 'float'
+F:\MarioRPG-OpenGL-main\MARIORPG\PF POO\Scene.h(468,1): warning C4305: 'argument': truncation from 'double' to 'float'
+F:\MarioRPG-OpenGL-main\MARIORPG\PF POO\Scene.h(474,1): warning C4305: 'argument': truncation from 'double' to 'float'
+F:\MarioRPG-OpenGL-main\MARIORPG\PF POO\Scene.h(476,1): warning C4305: 'argument': truncation from 'double' to 'float'
+F:\MarioRPG-OpenGL-main\MARIORPG\PF POO\Scene.h(484,1): warning C4305: '+=': truncation from 'double' to 'float'
+F:\MarioRPG-OpenGL-main\MARIORPG\PF POO\Scene.h(488,1): warning C4305: 'argument': truncation from 'double' to 'float'
+F:\MarioRPG-OpenGL-main\MARIORPG\PF POO\Scene.h(507,1): warning C4305: 'argument': truncation from 'double' to 'float'
+F:\MarioRPG-OpenGL-main\MARIORPG\PF POO\Scene.h(513,1): warning C4305: 'argument': truncation from 'double' to 'float'
+F:\MarioRPG-OpenGL-main\MARIORPG\PF POO\Scene.h(515,1): warning C4305: 'argument': truncation from 'double' to 'float'
+F:\MarioRPG-OpenGL-main\MARIORPG\PF POO\Scene.h(520,1): warning C4305: '+=': truncation from 'double' to 'float'
+F:\MarioRPG-OpenGL-main\MARIORPG\PF POO\Scene.h(564,1): warning C4305: 'argument': truncation from 'double' to 'float'
+F:\MarioRPG-OpenGL-main\MARIORPG\PF POO\Scene.h(570,1): warning C4305: 'argument': truncation from 'double' to 'float'
+F:\MarioRPG-OpenGL-main\MARIORPG\PF POO\Scene.h(572,1): warning C4305: 'argument': truncation from 'double' to 'float'
+F:\MarioRPG-OpenGL-main\MARIORPG\PF POO\Scene.h(588,69): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+F:\MarioRPG-OpenGL-main\MARIORPG\PF POO\Scene.h(588,52): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+F:\MarioRPG-OpenGL-main\MARIORPG\PF POO\Scene.h(588,35): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+F:\MarioRPG-OpenGL-main\MARIORPG\PF POO\Scene.h(595,74): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+F:\MarioRPG-OpenGL-main\MARIORPG\PF POO\Scene.h(595,54): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+F:\MarioRPG-OpenGL-main\MARIORPG\PF POO\Scene.h(595,35): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+F:\MarioRPG-OpenGL-main\MARIORPG\PF POO\Scene.h(628,1): warning C4305: '+=': truncation from 'double' to 'float'
+F:\MarioRPG-OpenGL-main\MARIORPG\PF POO\Scene.h(634,1): warning C4305: '+=': truncation from 'double' to 'float'
+F:\MarioRPG-OpenGL-main\MARIORPG\PF POO\Scene.h(648,1): warning C4305: '+=': truncation from 'double' to 'float'
+F:\MarioRPG-OpenGL-main\MARIORPG\PF POO\Scene.h(651,1): warning C4305: 'argument': truncation from 'double' to 'float'
+F:\MarioRPG-OpenGL-main\MARIORPG\PF POO\Scene.h(657,1): warning C4305: 'argument': truncation from 'double' to 'float'
+F:\MarioRPG-OpenGL-main\MARIORPG\PF POO\Scene.h(659,1): warning C4305: 'argument': truncation from 'double' to 'float'
+F:\MarioRPG-OpenGL-main\MARIORPG\PF POO\Scene.h(689,21): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+F:\MarioRPG-OpenGL-main\MARIORPG\PF POO\Scene.h(705,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+F:\MarioRPG-OpenGL-main\MARIORPG\PF POO\Scene.h(715,75): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+F:\MarioRPG-OpenGL-main\MARIORPG\PF POO\Scene.h(715,45): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+F:\MarioRPG-OpenGL-main\MARIORPG\PF POO\Scene.h(716,23): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+F:\MarioRPG-OpenGL-main\MARIORPG\PF POO\Scene.h(722,75): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+F:\MarioRPG-OpenGL-main\MARIORPG\PF POO\Scene.h(722,45): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+F:\MarioRPG-OpenGL-main\MARIORPG\PF POO\Scene.h(723,23): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+F:\MarioRPG-OpenGL-main\MARIORPG\PF POO\Scene.h(729,75): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+F:\MarioRPG-OpenGL-main\MARIORPG\PF POO\Scene.h(729,45): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+F:\MarioRPG-OpenGL-main\MARIORPG\PF POO\Scene.h(730,23): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+F:\MarioRPG-OpenGL-main\MARIORPG\PF POO\Scene.h(736,75): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+F:\MarioRPG-OpenGL-main\MARIORPG\PF POO\Scene.h(736,45): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+F:\MarioRPG-OpenGL-main\MARIORPG\PF POO\Scene.h(737,23): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+F:\MarioRPG-OpenGL-main\MARIORPG\PF POO\Scene.h(743,75): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+F:\MarioRPG-OpenGL-main\MARIORPG\PF POO\Scene.h(743,45): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+F:\MarioRPG-OpenGL-main\MARIORPG\PF POO\Scene.h(744,23): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+F:\MarioRPG-OpenGL-main\MARIORPG\PF POO\Scene.h(764,1): warning C4305: '+=': truncation from 'double' to 'float'
+F:\MarioRPG-OpenGL-main\MARIORPG\PF POO\Scene.h(774,31): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+F:\MarioRPG-OpenGL-main\MARIORPG\PF POO\Scene.h(792,37): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+F:\MarioRPG-OpenGL-main\MARIORPG\PF POO\Scene.h(792,26): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+F:\MarioRPG-OpenGL-main\MARIORPG\PF POO\Scene.h(801,37): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+F:\MarioRPG-OpenGL-main\MARIORPG\PF POO\Scene.h(801,26): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+F:\MarioRPG-OpenGL-main\MARIORPG\PF POO\Scene.h(812,34): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+F:\MarioRPG-OpenGL-main\MARIORPG\PF POO\Scene.h(813,1): warning C4305: 'argument': truncation from 'double' to 'float'
+F:\MarioRPG-OpenGL-main\MARIORPG\PF POO\Scene.h(821,1): warning C4305: '+=': truncation from 'double' to 'float'
+F:\MarioRPG-OpenGL-main\MARIORPG\PF POO\Scene.h(834,31): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+F:\MarioRPG-OpenGL-main\MARIORPG\PF POO\Scene.h(846,30): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+F:\MarioRPG-OpenGL-main\MARIORPG\PF POO\Scene.h(863,30): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+F:\MarioRPG-OpenGL-main\MARIORPG\PF POO\Main.cpp(183,13): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Model.cpp
+  OpenMove.cpp
+F:\MarioRPG-OpenGL-main\MARIORPG\PF POO\OpenMove.cpp(45,12): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+F:\MarioRPG-OpenGL-main\MARIORPG\PF POO\OpenMove.cpp(49,10): warning C4838: conversion from 'double' to 'float' requires a narrowing conversion
+F:\MarioRPG-OpenGL-main\MARIORPG\PF POO\OpenMove.cpp(49,10): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+F:\MarioRPG-OpenGL-main\MARIORPG\PF POO\OpenMove.cpp(49,20): warning C4838: conversion from 'double' to 'float' requires a narrowing conversion
+F:\MarioRPG-OpenGL-main\MARIORPG\PF POO\OpenMove.cpp(49,20): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+F:\MarioRPG-OpenGL-main\MARIORPG\PF POO\OpenMove.cpp(50,6): warning C4838: conversion from 'double' to 'float' requires a narrowing conversion
+F:\MarioRPG-OpenGL-main\MARIORPG\PF POO\OpenMove.cpp(50,6): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+F:\MarioRPG-OpenGL-main\MARIORPG\PF POO\OpenMove.cpp(50,20): warning C4838: conversion from 'double' to 'float' requires a narrowing conversion
+F:\MarioRPG-OpenGL-main\MARIORPG\PF POO\OpenMove.cpp(50,20): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+F:\MarioRPG-OpenGL-main\MARIORPG\PF POO\OpenMove.cpp(55,6): warning C4838: conversion from 'double' to 'float' requires a narrowing conversion
+F:\MarioRPG-OpenGL-main\MARIORPG\PF POO\OpenMove.cpp(55,6): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+F:\MarioRPG-OpenGL-main\MARIORPG\PF POO\OpenMove.cpp(55,16): warning C4838: conversion from 'double' to 'float' requires a narrowing conversion
+F:\MarioRPG-OpenGL-main\MARIORPG\PF POO\OpenMove.cpp(55,16): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+F:\MarioRPG-OpenGL-main\MARIORPG\PF POO\OpenMove.cpp(57,6): warning C4838: conversion from 'double' to 'float' requires a narrowing conversion
+F:\MarioRPG-OpenGL-main\MARIORPG\PF POO\OpenMove.cpp(57,6): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+F:\MarioRPG-OpenGL-main\MARIORPG\PF POO\OpenMove.cpp(57,20): warning C4838: conversion from 'double' to 'float' requires a narrowing conversion
+F:\MarioRPG-OpenGL-main\MARIORPG\PF POO\OpenMove.cpp(57,20): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+F:\MarioRPG-OpenGL-main\MARIORPG\PF POO\OpenMove.cpp(62,6): warning C4838: conversion from 'double' to 'float' requires a narrowing conversion
+F:\MarioRPG-OpenGL-main\MARIORPG\PF POO\OpenMove.cpp(62,6): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+F:\MarioRPG-OpenGL-main\MARIORPG\PF POO\OpenMove.cpp(62,16): warning C4838: conversion from 'double' to 'float' requires a narrowing conversion
+F:\MarioRPG-OpenGL-main\MARIORPG\PF POO\OpenMove.cpp(62,16): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+F:\MarioRPG-OpenGL-main\MARIORPG\PF POO\OpenMove.cpp(63,3): warning C4838: conversion from 'double' to 'float' requires a narrowing conversion
+F:\MarioRPG-OpenGL-main\MARIORPG\PF POO\OpenMove.cpp(63,3): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+F:\MarioRPG-OpenGL-main\MARIORPG\PF POO\OpenMove.cpp(63,17): warning C4838: conversion from 'double' to 'float' requires a narrowing conversion
+F:\MarioRPG-OpenGL-main\MARIORPG\PF POO\OpenMove.cpp(63,17): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  Generating Code...
+F:\MarioRPG-OpenGL-main\MARIORPG\PF POO\Particle.h(76): warning C4715: 'Particles::Particle::Update': not all control paths return a value
+  LINK : F:\MarioRPG-OpenGL-main\MARIORPG\Debug\PF POO.exe not found or not built by the last incremental link; performing full link
+  PF POO.vcxproj -> F:\MarioRPG-OpenGL-main\MARIORPG\Debug\PF POO.exe
